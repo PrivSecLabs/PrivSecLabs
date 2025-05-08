@@ -39,7 +39,8 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk&logoColor=white&labelColor=grey&color=black" />
+
     
     
 </div>
