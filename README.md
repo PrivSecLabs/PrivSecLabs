@@ -25,7 +25,7 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Aircrack--ng-EF3B2D?style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp Suite-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Burp_Suite-Orange?style=for-the-badge&logo=burp%20suite&logoColor=white" />
 
    
 </div>
