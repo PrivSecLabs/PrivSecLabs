@@ -16,7 +16,7 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | USB Rubber Ducky Payloads                       | <a href="https://google.com">Penetration Test Lab</a>|
-| Havoc C2 Framework Configuration                | <a href="https://google.com">Detection Lab</a>|
+| Havoc C2 Framework On Attackbox                 | <a href="https://google.com">Detection Lab</a>|
 
 
 ## Tools
