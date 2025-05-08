@@ -11,7 +11,7 @@ I’m a cybersecurity professional deeply committed to safeguarding the identiti
 My journey in Information Technology has sparked a strong passion for cybersecurity, and I am eager to continue growing in this field by defending networks as a member of the blue team.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -45,7 +45,7 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
