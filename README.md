@@ -20,7 +20,6 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
