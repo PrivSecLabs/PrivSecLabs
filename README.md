@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a cyber.
+I’m a cybersecurity professional deeply committed to safeguarding the identities and data of vulnerable individuals.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
