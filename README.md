@@ -34,6 +34,7 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-LimaCharlie-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cortex%20XDR-2CABA8?&style=for-the-badge&logo=shield&logoColor=white" />
 </div>
 
 ### SIEM
