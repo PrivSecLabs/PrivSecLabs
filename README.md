@@ -57,4 +57,5 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- Penetration Test Lab
+- 
