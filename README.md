@@ -15,7 +15,7 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| VM Setup                         | <a href="https://google.com">VMware</a>|
+| VM Setup                         | <a href="https://github.com/PrivSecLabs/VmWareLab/blob/main/README.md">VMware</a>|
 | Malware Analysis                 | <a href="https://google.com">Any.Run</a>|
 | Payload Detection                | <a href="https://google.com">USB Rubber Ducky</a>|
 
