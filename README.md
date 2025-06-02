@@ -3,7 +3,7 @@
 
 
 
-I’m a cybersecurity professional deeply committed to safeguarding the identities and data of vulnerable individuals.
+I’m a cybersecurity professional deeply committed to safeguarding the identities and data of vulnerable individuals and company assets.
 
 ## Objective
 
