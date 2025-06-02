@@ -56,6 +56,7 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 </div>
 
 ## Projects
-- Detection Lab
-- Penetration Test Lab
+- VmWare
+- Any.Run
+- USB Rubber Ducky
   
