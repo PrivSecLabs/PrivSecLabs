@@ -15,7 +15,7 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| VM Setup                         | <a href="https://google.com">VmWare</a>|
+| VM Setup                         | <a href="https://google.com">VMware</a>|
 | Malware Analysis                 | <a href="https://google.com">Any.Run</a>|
 | Payload Detection                | <a href="https://google.com">USB Rubber Ducky</a>|
 
@@ -56,7 +56,7 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 </div>
 
 ## Projects
-- VmWare
+- VMware
 - Any.Run
 - USB Rubber Ducky
   
