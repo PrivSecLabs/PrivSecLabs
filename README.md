@@ -18,6 +18,7 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 | VM Setup                         | <a href="https://github.com/PrivSecLabs/VmWareLab/blob/main/README.md">VMware</a>|
 | Malware Analysis                 | <a href="https://github.com/PrivSecLabs/Any.RunLab">Any.Run</a>|
 | Payload Detection                | <a href="https://github.com/PrivSecLabs/PayloadDetectionLab/blob/main/README.md">USB Rubber Ducky</a>|
+| Phishing Email Analysis          | <a href="https://github.com/PrivSecLabs/PayloadDetectionLab/blob/main/README.md">Phishing Email</a>|
 
 ## Tools
 
