@@ -19,6 +19,7 @@ My journey in Information Technology has sparked a strong passion for cybersecur
 | Malware Analysis                 | <a href="https://github.com/PrivSecLabs/Any.RunLab">Any.Run</a>|
 | Payload Detection                | <a href="https://github.com/PrivSecLabs/PayloadDetectionLab/blob/main/README.md">USB Rubber Ducky</a>|
 | Phishing Email Analysis          | <a href="https://github.com/PrivSecLabs/PhishingEmailLab">Phishing Email</a>|
+| LimaCharlie EDR Config           | <a href="https://github.com/PrivSecLabs/LimaCharlieLab/blob/main/README.md">Phishing Email</a>|
 
 ## Tools
 
